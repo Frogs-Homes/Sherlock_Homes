@@ -9,6 +9,8 @@ public class IndexController {
 	
 	@RequestMapping("/")
 	public String index(Model model) {
+		
+		
 		model.addAttribute(Const.TITLE, "셜록 홈즈");
 		model.addAttribute(Const.VIEW, "index");
 		return ViewRef.TEMP_DEFAULT;
