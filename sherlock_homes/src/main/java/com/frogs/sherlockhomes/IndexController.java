@@ -14,5 +14,8 @@ public class IndexController {
 		model.addAttribute(Const.TITLE, "셜록 홈즈");
 		model.addAttribute(Const.VIEW, "index");
 		return ViewRef.TEMP_DEFAULT;
+		
+		
+		// 나중에 지우셈
 	}
 }
