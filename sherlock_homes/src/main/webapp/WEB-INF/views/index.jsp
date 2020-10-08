@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello Frogs!!!!!test
+	Hello Frogs!
 </h1>
 </body>
 </html>
